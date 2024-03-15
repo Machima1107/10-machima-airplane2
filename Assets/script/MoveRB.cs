@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoveRB : MonoBehaviour
 {
-    private float speed = -300f;
+    private float speed = -200f;
     private float rotationspeed = 100f;
 
     private Rigidbody Rb;
